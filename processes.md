@@ -12,7 +12,7 @@ This script automates the process of setting up a Laravel application on a Linux
 ![bash script contents](/images/script.png)
 
 > After successful running of script  
-[Script response](/images/bashrun.png)
+![Script response](/images/bashrun.png)
 
 > Step 3  
 Create an Ansible playbook to execute the bash script on the Slave node Create an Ansible playbook named **playbook.yml**
@@ -22,5 +22,5 @@ Create an Ansible playbook to execute the bash script on the Slave node Create a
 
 > Step 4  
 Verifying the IP address on my web browser to successfully show laravel installation  
-![Ip address loaded](/images/laravel.png)
+![Ip address loaded](/images/Laravel.png)
 
